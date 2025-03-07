@@ -11,3 +11,5 @@ A React component that visualizes market depth (order book) with a table and cha
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/market-depth-demo.git
+
+   npm start for run
