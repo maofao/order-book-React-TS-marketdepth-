@@ -1,0 +1,35 @@
+{
+    "name": "order-book-react-ts-marketdepth",
+    "version": "1.0.0",
+    "description": "A React component to visualize market depth with table and chart views",
+    "main": "src/market-depth.tsx",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "recharts": "^2.12.0",
+      "antd": "^5.0.0",
+      "clsx": "^2.0.0"
+    },
+    "devDependencies": {
+      "react-scripts": "^5.0.1",
+      "typescript": "^4.9.5",
+      "@types/react": "^18.2.0",
+      "@types/react-dom": "^18.2.0"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
